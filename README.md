@@ -1,15 +1,13 @@
 # 🚀 Lazorkit Passkey Demo - Solana Wallet Integration
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://your-vercel-url.vercel.app)
-[![Solana](https://img.shields.io/badge/Solana-Devnet-green)](https://solana.com)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![Live Demo](https://lazorkit-passkey-demo-mu.vercel.app)]
+
 
 A production-ready example demonstrating **Lazorkit SDK** integration with passkey authentication for seamless Solana wallet experiences. No browser extensions, no seed phrases - just biometric authentication.
 
 ## 🎯 Live Demo
 
-**Try it now:** [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**Try it now:** [https://lazorkit-passkey-demo-mu.vercel.app]
 
 **Works on:**
 - 💻 Desktop (Windows Hello, Touch ID)
@@ -31,16 +29,16 @@ A production-ready example demonstrating **Lazorkit SDK** integration with passk
 
 ## 📖 Table of Contents
 
-- [Quick Start](#-quick-start)
-- [What You'll Learn](#-what-youll-learn)
-- [Project Structure](#-project-structure)
-- [Tutorial 1: Create Passkey Wallet](#-tutorial-1-create-passkey-wallet)
-- [Tutorial 2: Send Gasless Transfer](#-tutorial-2-send-gasless-transfer)
-- [Tutorial 3: Cross-Device Connection](#-tutorial-3-cross-device-connection)
-- [API Reference](#-api-reference)
-- [Deployment](#-deployment)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
+- [Quick Start]
+- [What You'll Learn]
+- [Project Structure]
+- [Tutorial 1: Create Passkey Wallet]
+- [Tutorial 2: Send Gasless Transfer]
+- [Tutorial 3: Cross-Device Connection]
+- [API Reference]
+- [Deployment]
+- [Troubleshooting]
+- [Contributing]
 
 ---
 
@@ -57,7 +55,7 @@ A production-ready example demonstrating **Lazorkit SDK** integration with passk
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/lazorkit-passkey-demo.git
+git clone https://github.com/priyanshi675454/priyanshi-projects
 cd lazorkit-passkey-demo
 
 # 2. Install dependencies
@@ -561,8 +559,8 @@ MIT License - feel free to use this code for your own projects!
 **Bounty:** Lazorkit SDK Integration Example  
 **Framework:** Next.js 14 with TypeScript  
 **Features:** Passkey auth, Gasless transfers, QR connect  
-**Live Demo:** [Your Vercel URL]  
-**Repository:** [GitHub URL]  
+**Live Demo:** [https://lazorkit-passkey-demo-mu.vercel.app]  
+**Repository:** [https://github.com/priyanshi675454/priyanshi-projects]  
 
 **Built with ❤️ for the Solana ecosystem**
 

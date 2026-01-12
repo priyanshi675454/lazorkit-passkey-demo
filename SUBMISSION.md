@@ -1,4 +1,4 @@
-# 📝 Submission Checklist & Guide
+# 📝 Submission Checklist 
 
 ## ✅ Pre-Submission Checklist
 
@@ -71,7 +71,7 @@ Visit your deployed URL and verify:
 
 ## 📸 Screenshots & Video
 
-### Required Screenshots
+
 
 Take screenshots of:
 
@@ -103,15 +103,7 @@ Take screenshots of:
    - App on phone screen
    - Mobile passkey prompt
 
-### Video Demo (Optional but Recommended)
 
-Record a 2-3 minute video showing:
-
-1. Creating a wallet (0:00-0:30)
-2. Requesting airdrop (0:30-0:45)
-3. Sending transfer (0:45-1:15)
-4. Generating QR code (1:15-1:30)
-5. Testing on mobile (1:30-2:00)
 
 **Tools:**
 - OBS Studio (free, desktop)
@@ -142,9 +134,9 @@ lazorkit-passkey-demo/
 │   ├── lazorkit.ts
 │   └── utils.ts
 ├── public/
-│   ├── screenshots/        # Add your screenshots here
-│   └── demo.gif            # Optional: animated demo
-├── .env.example            # Example environment file
+│   ├── screenshots/        
+│               
+├── .env.example            
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -225,9 +217,7 @@ next-env.d.ts
 
 **Framework:** Next.js 14 with TypeScript
 
-**Live Demo:** [Your Vercel URL]
-
-**GitHub Repository:** [Your GitHub URL]
+**GitHub Repository:** [https://github.com/priyanshi675454/lazorkit-passkey-demo]
 
 **Features Implemented:**
 - ✅ Passkey authentication (biometric login)
@@ -263,69 +253,18 @@ next-env.d.ts
 
 ---
 
-## 🐦 Social Media Sharing
-
-### Twitter/X Post
-
-**Option 1: Thread (Recommended)**
-See `TWITTER_THREAD.md` for full thread
-
-**Option 2: Single Tweet**
-```
-🚀 Just built a passwordless Solana wallet with @Lazorkit!
-
-✨ No extensions
-🔐 Biometric auth
-⚡ Gasless transactions
-📱 Works on all devices
-
-🎮 Try it: [Your URL]
-💻 Code: [GitHub URL]
-
-#Solana #Web3 #Passkeys #BuildOnSolana
-```
-
-### LinkedIn Post (Optional)
-
-```
-I'm excited to share my latest project: a passwordless Solana wallet built with Lazorkit SDK!
-
-Key Features:
-🔐 Passkey Authentication - Use Face ID, Touch ID, or fingerprint instead of seed phrases
-⚡ Gasless Transactions - No gas fees for users
-📱 Cross-Device Support - QR code connectivity
-🎨 Beautiful UX - Modern, intuitive interface
-
-Tech Stack:
-- Next.js 14
-- TypeScript
-- Lazorkit SDK
-- Solana Web3.js
-- TailwindCSS
-
-This represents the future of crypto UX - simple, secure, and accessible to everyone.
-
-🔗 Live Demo: [URL]
-💻 Open Source: [GitHub]
-
-#Solana #Blockchain #Web3 #DeveloperTools #OpenSource
-```
-
----
 
 ## 📋 Submission Form Fields
 
 ### Basic Information
-- **Your Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub Username:** [Username]
-- **Twitter/X Handle:** [@handle] (optional)
+- **Your Name:** [Priyanshi Gajjar]
+- **Email:** [priyanshigajjar46@gmail.com]
+- **GitHub Username:** [priyanshi675454]
+- **Twitter/X Handle:** [@GajjarG78579] 
 
 ### Project Information
 - **Project Name:** Lazorkit Passkey Demo
-- **Repository URL:** https://github.com/[username]/lazorkit-passkey-demo
-- **Live Demo URL:** https://[your-app].vercel.app
-- **Video Demo URL:** [YouTube/Loom link] (optional)
+- **Repository URL:** https://github.com/priyanshi675454/lazorkit-passkey-demo
 
 ### Description
 ```
@@ -350,25 +289,13 @@ A production-ready Next.js application demonstrating Lazorkit SDK integration wi
 
 ---
 
-## 🎯 Final Steps Before Submission
 
-### 1. Code Review
-```bash
-# Run linter
-npm run lint
-
-# Check for TypeScript errors
-npx tsc --noEmit
-
-# Test build
-npm run build
-```
 
 ### 2. Documentation Review
 - [ ] README.md is complete
 - [ ] TUTORIALS.md is clear
 - [ ] All links are working
-- [ ] Screenshots are included
+- [ ] Screenshots are included  //
 - [ ] Code comments are helpful
 
 ### 3. Deployment Check
@@ -379,20 +306,7 @@ npm run build
 - [ ] Custom domain (optional)
 
 ### 4. Repository Polish
-```bash
 
-git add .
-
-
-git commit -m "Final submission: Lazorkit Passkey Demo with full documentation"
-
-# Push to GitHub
-git push origin main
-
-# Add GitHub topics
-# Go to GitHub > Repository Settings > Topics
-# Add: solana, web3, passkeys, lazorkit, next-js, typescript
-```
 
 ### 5. Create GitHub Release (Optional)
 1. Go to GitHub > Releases
@@ -404,51 +318,12 @@ git push origin main
 
 ---
 
-## 📊 Submission Checklist Summary
-
-### Must Have ✅
-- [x] Working GitHub repository
-- [x] Comprehensive README
-- [x] Step-by-step tutorials
-- [x] Live demo deployed
-- [x] All features functional
-- [x] Clean code with comments
-- [x] Mobile-tested
-
-### Nice to Have 🌟
-- [ ] Video demonstration
-- [ ] Twitter thread published
-- [ ] Screenshots in repository
-- [ ] GitHub release created
-- [ ] Custom domain
-- [ ] Blog post written
-
----
-
 ## 🎉 You're Ready to Submit!
 
 ### Submission URLs to Prepare:
-1. **GitHub Repository:** https://github.com/[username]/lazorkit-passkey-demo
-2. **Live Demo:** https://[your-app].vercel.app
-3. **Video (if created):** [YouTube/Loom URL]
-4. **Twitter Thread (if posted):** [Tweet URL]
 
-### Time to Submit! 🚀
+1. **Live Demo:** https://[your-app].vercel.app
+2. **Twitter Thread (if posted):** [Tweet URL]
 
-1. Go to the bounty submission page
-2. Fill in all required fields
-3. Double-check all URLs
-4. Submit with confidence!
 
----
-
-## 💡 Tips for Success
-
-1. **Test Everything** - Try your app on different devices before submitting
-2. **Documentation Matters** - Clear docs can increase your score significantly
-3. **Show Your Work** - Screenshots and videos make your submission stand out
-4. **Be Responsive** - If judges have questions, respond quickly
-5. **Share Your Work** - Tweet about it, share on LinkedIn
-
----
 
