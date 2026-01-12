@@ -76,32 +76,35 @@ Visit your deployed URL and verify:
 Take screenshots of:
 
 1. **Landing Page**
-   - Welcome screen
-   - Feature showcase
+   
+    ![welcome screen](image-1.png)
 
 2. **Authentication**
-   - Create wallet screen
-   - Login screen
-   - Passkey prompt (if possible)
+   - ![Login screen](image.png)
 
 3. **Wallet Dashboard**
    - Wallet info card
-   - Balance display
-   - Address section
+   - Balance display //it just show not create yet 
+   - Address section 
+
+   ![it just show ](image-2.png)
 
 4. **Transfer Interface**
    - Input fields
    - Gasless banner
    - Success message
+   ![only show](image-3.png)
 
 5. **QR Connect**
    - QR code display
    - Instructions
    - Security notice
+   ![QR code](image.png)
 
 6. **Mobile**
    - App on phone screen
    - Mobile passkey prompt
+   ![Android phone](OPEN.jpeg)
 
 
 
@@ -322,7 +325,7 @@ A production-ready Next.js application demonstrating Lazorkit SDK integration wi
 
 ### Submission URLs to Prepare:
 
-1. **Live Demo:** https://[your-app].vercel.app
+1. **Live Demo:** https://lazorkit-passkey-demo-mu.vercel.app
 2. **Twitter Thread (if posted):** [Tweet URL]
 
 
