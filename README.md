@@ -68,7 +68,7 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:4001](http://localhost:4001) in your browser.
 
 ### Environment Variables
 
@@ -166,7 +166,7 @@ Set up a new Solana wallet using biometric authentication (no seed phrases!)
    ```bash
    npm run dev
    ```
-   Open http://localhost:3000
+   Open http://localhost:4001
 
 2. **Click "Create New Wallet"**
 
