@@ -166,7 +166,7 @@ Set up a new Solana wallet using biometric authentication (no seed phrases!)
    ```bash
    npm run dev
    ```
-   Open http://localhost:4001
+   Open http://localhost:4001 
 
 2. **Click "Create New Wallet"**
 
