@@ -1,13 +1,13 @@
 # 🚀 Lazorkit Passkey Demo - Solana Wallet Integration
 
-[![Live Demo](https://lazorkit-passkey-demo-mu.vercel.app)]
+[![Live Demo](https://lazorkit-passkey-demo-3i7j.vercel.app/)]
 
 
 A production-ready example demonstrating **Lazorkit SDK** integration with passkey authentication for seamless Solana wallet experiences. No browser extensions, no seed phrases - just biometric authentication.
 
 ## 🎯 Live Demo
 
-**Try it now:** [https://lazorkit-passkey-demo-mu.vercel.app]
+**Try it now:** [https://lazorkit-passkey-demo-3i7j.vercel.app/]
 
 **Works on:**
 - 💻 Desktop (Windows Hello, Touch ID)
@@ -559,7 +559,7 @@ MIT License - feel free to use this code for your own projects!
 **Bounty:** Lazorkit SDK Integration Example  
 **Framework:** Next.js 14 with TypeScript  
 **Features:** Passkey auth, Gasless transfers, QR connect  
-**Live Demo:** [https://lazorkit-passkey-demo-mu.vercel.app]  
+**Live Demo:** [https://lazorkit-passkey-demo-3i7j.vercel.app/]  
 **Repository:** [https://github.com/priyanshi675454/priyanshi-projects]  
 
 **Built with ❤️ for the Solana ecosystem**
